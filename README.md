@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Backend Developer<br>- Sometimes Frontend</p>
+<p align="left">- Backend Developer</p>
 
 ###
 
